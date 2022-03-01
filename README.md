@@ -33,5 +33,5 @@ I'm Emily, a full stack developer in training with a love for colour and style.
 <p>&nbsp;</p>  
 <p>&nbsp;</p> 
 
-<img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=emilysarina&show_icons=true&theme=calm&bg_color=e7ad99&title_color=44525f&text_color=b17743&icon_color=c25847&hide_border=true&include_all_commits=true&count_private=true"/>
-<img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilysarina&layout=compact&langs_count=16&bg_color=e7ad99&title_color=44525f&text_color=b17743&hide_border=true&theme=calm"/>
+<img  height="150em" src="https://github-readme-stats.vercel.app/api?username=emilysarina&show_icons=true&theme=calm&bg_color=e7ad99&title_color=44525f&text_color=b17743&icon_color=c25847&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilysarina&layout=compact&langs_count=16&bg_color=e7ad99&title_color=44525f&text_color=b17743&hide_border=true&theme=calm"/>
