@@ -5,7 +5,7 @@
   width="100"
   target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/emilysarina" target="_blank"><img src="./img/linkedinLogo.png" 
+  <a href="https://www.linkedin.com/in/emily-sarina-ekins-664079217" target="_blank"><img src="./img/linkedinLogo.png" 
   width="100"
   target="_blank">
   </a> 
