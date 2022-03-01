@@ -12,3 +12,26 @@
  </div> 
 
 # Oh hi! 
+I'm Emily, a full stack developer in training with a love for colour and style. 
+
+👩🏻‍💻 Currently working on my portfolio and my final bootcamp project at School of Code. 
+
+🌱 Learning how to make a full stack lifestyle app with next.js.  
+
+☀️ Fun fact: I drove from Portugal back to England in a van with a mattress, two plants and a load of crockery after living there last year.
+
+<p>&nbsp;</p>
+<h3>Skills:</h3>
+<div style="display: inline_block">
+  <img align="center" src="./img/html.png" width="40">
+  <img align="center" src="./img/css.png" width="40">
+  <img align="center" src="./img/js.png" width="40">
+  <img align="center" src="./img/react.png" width="40">
+  <img align="center" src="./img/node.png" width="40">
+</div> 
+
+<p>&nbsp;</p>  
+<p>&nbsp;</p> 
+
+<img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=emilysarina&show_icons=true&theme=calm&bg_color=e7ad99&title_color=44525f&text_color=b17743&icon_color=c25847&hide_border=true&include_all_commits=true&count_private=true"/>
+<img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilysarina&layout=compact&langs_count=16&bg_color=e7ad99&title_color=44525f&text_color=b17743&hide_border=true&theme=calm"/>
