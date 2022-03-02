@@ -18,7 +18,7 @@ I'm Emily, a full stack developer in training with a love for colour and style.
 
 🌱 Learning how to make a full stack lifestyle app with next.js.  
 
-☀️ Fun fact: I drove from Portugal back to England in a van with a mattress, two plants and a load of crockery after living there last year.
+☀️ Fun fact: I drove from Portugal back to England in a van with a mattress, a sofa, two plants, two parents and a load of crockery after living there last year.
 
 <p>&nbsp;</p>
 <h3>Skills:</h3>
