@@ -14,9 +14,9 @@
 # Oh hi! 
 I'm Emily, a full stack developer in training with a love for colour and style. 
 
-👩🏻‍💻 Currently working on my portfolio and my final bootcamp project at School of Code. 
+👩🏻‍💻 Currently working on my portfolio.
 
-🌱 Learning how to make a full stack lifestyle app with next.js.  
+🌱 Working on improving css skills.  
 
 ☀️ Fun fact: I drove from Portugal back to England in a van with a mattress, a sofa, two plants, two parents, and a load of crockery after living there last year.
 
