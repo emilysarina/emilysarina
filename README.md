@@ -12,11 +12,7 @@
  </div> 
 
 # Oh hi! 
-I'm Emily, a full stack developer in training with a love for colour and style. 
-
-👩🏻‍💻 Currently working on my portfolio.
-
-🌱 Working on improving css skills.  
+I'm Emily, a full stack developer with a love for design. 
 
 ☀️ Fun fact: I drove from Portugal back to England in a van with a mattress, a sofa, two plants, two parents, and a load of crockery after living there last year.
 
