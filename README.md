@@ -15,6 +15,7 @@
 I'm Emily, a full stack developer with a love for design. 
 
 ☀️ Fun fact: I drove from Portugal back to England in a van with a mattress, a sofa, two plants, two parents, and a load of crockery after living there last year.
+👩🏻‍💻 Currently: Refreshing my portfolio to show recent full-stack and client work.
 
 <p>&nbsp;</p>
 <h3>Skills:</h3>
